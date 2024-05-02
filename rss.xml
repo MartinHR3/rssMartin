@@ -8,13 +8,13 @@
         <item>
             <title>Ofertas de la Semana</title>
             <link>https://martinhr3.github.io/rssMartin/ofertas.html</link>
-            <description>Últimas ofertas disponibles en Mi Sitio Web</description>
+            <description>Últimas ofertas disponibles en MartinRSS</description>
             <guid isPermaLink="true">https://martinhr3.github.io/rssMartin/ofertas.html</guid>
         </item>
         <item>
             <title>Últimas Noticias Destacadas</title>
             <link>https://martinhr3.github.io/rssMartin/noticias.html</link>
-            <description>Las noticias más destacadas en Mi Sitio Web</description>
+            <description>Las noticias más destacadas en MartinRSS</description>
             <guid isPermaLink="true">https://martinhr3.github.io/rssMartin/noticias.html</guid>
         </item>
     </channel>
