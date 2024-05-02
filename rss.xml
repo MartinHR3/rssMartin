@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-        <title>Canal RSS de Mi Sitio Web</title>
+        <title>Canal RSS de MartinRSS</title>
         <link>http://www.tusitio.com/rss</link>
-        <description>Canal RSS que contiene enlaces a los canales de contenido de Mi Sitio Web</description>
+        <description>Canal RSS que contiene enlaces a los canales de contenido de MartinRSS</description>
         <item>
             <title>Ofertas de la Semana</title>
             <link>https://martinhr3.github.io/rssMartin/ofertas.html</link>
