@@ -6,12 +6,12 @@
         <description>Canal RSS que contiene enlaces a los canales de contenido de Mi Sitio Web</description>
         <item>
             <title>Ofertas de la Semana</title>
-            <link>https://martinhr3.github.io/rssMartin/ofertas.html</link>
-            <description>Últimas ofertas disponibles en Mi Sitio We</description>
+            <link>martinhr3.github.io/rssMartin/ofertas.html</link>
+            <description>Últimas ofertas disponibles en Mi Sitio Web</description>
         </item>
         <item>
             <title>Últimas Noticias Destacadas</title>
-            <link>https://martinhr3.github.io/rssMartin/noticias.html</link>
+            <link>martinhr3.github.io/rssMartin/noticias.html</link>
             <description>Las noticias más destacadas en Mi Sitio Web</description>
         </item>
     </channel>
