@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Canal RSS de Mi Sitio Web</title>
+        <link>http://www.tusitio.com/rss</link>
+        <description>Canal RSS que contiene enlaces a los canales de contenido de Mi Sitio Web</description>
+        <item>
+            <title>Ofertas de la Semana</title>
+            <link>http://www.tusitio.com/ofertas.html</link>
+            <description>Últimas ofertas disponibles en Mi Sitio Web</description>
+        </item>
+        <item>
+            <title>Últimas Noticias Destacadas</title>
+            <link>http://www.tusitio.com/noticias.html</link>
+            <description>Las noticias más destacadas en Mi Sitio Web</description>
+        </item>
+    </channel>
+</rss>
