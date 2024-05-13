@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Canal RSS de MartinRSS</title>
+        <link>https://martinhr3.github.io/rssMartin/noticias.html</link>
+        <description>Canal RSS que contiene enlaces a los canales de contenido de MartinRSS</description>
+        <guid isPermaLink="true">http://www.MartinRSS.com/rss</guid>
+        <item>
+            <h1>Últimas Noticias Destacadas</h1>
+            <div class="item">
+                <h2>Inauguración del nuevo centro comercial en Las Palmas</h2>
+                <p>Las Palmas de Gran Canaria celebra la apertura de un nuevo centro comercial en el corazón de la ciudad. Con una amplia variedad de tiendas, restaurantes y espacios de entretenimiento, se espera que este centro comercial se convierta en un importante punto de encuentro para residentes y turistas por igual.</p>
+                <p>Fecha de Publicación: 2024-05-02</p>
+                <img src="img/noticia1.jpeg" alt="Noticia 1">
+            </div>
+            <div class="item">
+                <h2>Gran Canaria acoge el Festival Internacional de Cine</h2>
+                <p>El Festival Internacional de Cine de Las Palmas de Gran Canaria vuelve este año con una selección de películas de todo el mundo. El evento, que se llevará a cabo en varios lugares de la isla, ofrecerá proyecciones de películas, mesas redondas y encuentros con cineastas, brindando una oportunidad única para los amantes del cine de disfrutar de lo mejor del séptimo arte.</p>
+                <p>Fecha de Publicación: 2024-05-02</p>
+                <img src="img/noticia2.jpg" alt="Noticia 2">
+            </div>
+            <div class="item">
+                <h2>Aumento de casos de turistas rescatados en playas de Gran Canaria</h2>
+                <p>Los servicios de emergencia en Gran Canaria han reportado un aumento en el número de turistas rescatados en playas debido a condiciones climáticas adversas y corrientes peligrosas. Se insta a los visitantes a respetar las advertencias de los socorristas y a tomar precauciones adicionales al disfrutar de las playas de la isla para garantizar su seguridad.</p>
+                <p>Fecha de Publicación: 2024-05-02</p>
+                <img src="img/noticia3.jpeg" alt="Noticia 3">
+            </div>
+        </item>
+    </channel>
+</rss>
