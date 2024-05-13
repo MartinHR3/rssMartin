@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
+    <title>Noticias de la Semana</title>
+    <link>https://martinhr3.github.io/rssMartin</link>
     <channel>
-        <title>Noticias de la Semana</title>
-        <link>https://martinhr3.github.io/rssMartin</link>
         <description>Canal RSS que contiene enlaces a los canales de contenido de MartinRSS</description>
         <item>
             <title>Inauguración del nuevo centro comercial en Las Palmas</title>
